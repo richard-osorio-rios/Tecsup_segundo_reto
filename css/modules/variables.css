@@ -20,6 +20,7 @@
     --max-width-container: 640px;
     --primary-border-radius: 0.5rem;
   }
+
   
   @media (min-width: 768px) {
     :root {
